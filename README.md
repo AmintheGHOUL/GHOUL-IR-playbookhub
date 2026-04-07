@@ -2,7 +2,7 @@
  
 A single-file, offline-capable **Incident Response Playbook Hub** built for SOC analysts and DFIR practitioners. No dependencies, no backend — just open the HTML and go.
  
-**Live Demo:** [ghoulac.github.io/ir-playbook-hub](https://amintheghoul.github.io/GHOUL-IR-playbookhub/) *(enable GitHub Pages to activate)*
+**Live Demo:** [ghoulac.github.io/ir-playbook-hub](https://amintheghoul.github.io/GHOUL-IR-playbookhub/) 
  
 ## 📋 Playbooks Included
  
