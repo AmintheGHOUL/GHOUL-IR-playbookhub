@@ -1,4 +1,8 @@
-
+# 🕵️ GHOULSec IR Playbook Hub
+ 
+A single-file, offline-capable **Incident Response Playbook Hub** built for SOC analysts and DFIR practitioners. No dependencies, no backend — just open the HTML and go.
+ 
+**Live Demo:** [ghoulac.github.io/ir-playbook-hub](https://AmintheGHOUL.github.io/ir-playbook-hub) *(enable GitHub Pages to activate)*
  
 ## 📋 Playbooks Included
  
